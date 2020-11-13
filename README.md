@@ -1,12 +1,12 @@
 <table>
-    <td>
-        <tr>
+    <tr>
+        <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeir0o&theme=radical&layout=compact">
-        </tr>
-        <tr>
+        </td>
+        <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Ribeir0o&show_icons=true&theme=radical">
-        </tr>
-    </td>
+        </td>
+    </tr>
 
 </table>
 
