@@ -1,5 +1,19 @@
-### Hi there 👋
+<table>
+    <td>
+        <tr>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeir0o&theme=radical&layout=compact">
+        </tr>
+        <tr>
+            <img src="https://github-readme-stats.vercel.app/api?username=Ribeir0o&show_icons=true&theme=radical">
+        </tr>
+    </td>
 
+</table>
+
+## About me
+**19y begginer programmer**
+
+![](https://komarev.com/ghpvc/?username=Ribeir0o)
 <!--
 **Ribeir0o/Ribeir0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
