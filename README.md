@@ -1,6 +1,3 @@
-## About me
-My name is Thiago Ribeiro. I live in Rio de Janeiro, Brazil and I'm in love with backend and JavaScript.
-
 ## Stack
 
 - <img src="https://i.ibb.co/zJNtC3N/Javascript.png" alt="Javascript" width="25"> <b>JavaScript</b>
