@@ -1,6 +1,27 @@
-## Stack
+<img src="https://komarev.com/ghpvc/?username=Ribeir0o&style=for-the-badge">
 
-- <img src="https://i.ibb.co/zJNtC3N/Javascript.png" alt="Javascript" width="25"> <b>JavaScript</b>
-- <img src="https://i.ibb.co/VgCtTNj/Nodejs.png" alt="Nodejs" width="25"> <b>NodeJS</b>
-- <img src="https://i.ibb.co/fD0SPLh/Mysql.png" alt="Mysql" width="25"> <b>Mysql</b>
-- <img src="https://i.ibb.co/4K5ckbd/Mongodb.png" alt="Mongodb" width="25"> <b>MongoDB</b>
+## 🤳 About me
+
+- 21 years
+- Started programming about 2 years ago
+- Full Stack Dev
+
+## 🐱‍💻 Stack
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🐱‍👓 Socials
+
+![https://www.linkedin.com/in/ribeir0o/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://twitter.com/Thiago_GRB](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+
+## 📊 Contribution Info
+
+![Contribution graph](https://activity-graph.herokuapp.com/graph?username=ribeir0o&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
