@@ -18,8 +18,13 @@
 
 ## 🐱‍👓 Socials
 
-![https://www.linkedin.com/in/ribeir0o/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://twitter.com/Thiago_GRB](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<a href = "https://www.linkedin.com/in/ribeir0o/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+ 
+ <a href = "https://twitter.com/Thiago_GRB">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ </a>
 
 
 ## 📊 Contribution Info
