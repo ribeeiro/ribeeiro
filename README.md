@@ -5,6 +5,7 @@
 - 21 years
 - Started programming about 2 years ago
 - Full Stack Dev
+- Currently Learning React
 
 ## 🐱‍💻 Stack
 
