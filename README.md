@@ -30,4 +30,4 @@
 
 ## 📊 Contribution Info
 
-![Contribution graph](https://activity-graph.herokuapp.com/graph?username=ribeir0o&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
+![Contribution graph](https://activity-graph.herokuapp.com/graph?username=ribeeiro&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
