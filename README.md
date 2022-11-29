@@ -5,7 +5,7 @@
 - 21 years
 - Started programming about 2 years ago
 - Full Stack Dev
-- Currently studying React-Router and typescript
+- Currently studying Redux and Typescript
 
 ## 🐱‍💻 Stack
 
