@@ -22,11 +22,6 @@
 
 ## 🐱‍👓 Socials
 
-<a href = "https://www.linkedin.com/in/ribeir0o/">
+<a href = "https://www.linkedin.com/in/ribeeiro/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
-
-
-## 📊 Contribution Info
-
-![Contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=ribeeiro&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
