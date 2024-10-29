@@ -3,7 +3,7 @@
 - 23 years
 - Started programming about 4 years ago
 - Full Stack Dev
-- Currently learning about low level stuff and security
+- Currently learning about low level stuff
 <br/>
 <br/>
 
