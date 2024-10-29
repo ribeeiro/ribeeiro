@@ -1,11 +1,11 @@
-## 🤳 About me
+# Thiago Ribeiro
 
 - 23 years
 - Started programming about 4 years ago
 - Full Stack Dev
 - Currently learning about low level stuff and security
-
-## 🐱‍💻 Stack
+<br/>
+<br/>
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -15,12 +15,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<br/>
+<br/>
 
-## 🐱‍👓 Socials
-
-<a href = "https://www.linkedin.com/in/ribeeiro/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
-
-## 📊 Stats
- ![ribeeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeeiro&theme=transparent&show_icons=true)
+![ribeeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeeiro&theme=transparent&show_icons=true)
