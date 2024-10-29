@@ -3,8 +3,7 @@
 - 23 years
 - Started programming about 4 years ago
 - Full Stack Dev
-- Currently learning about low level stuff
-<br/>
+- Currently learning about low level stuff and Java
 <br/>
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
